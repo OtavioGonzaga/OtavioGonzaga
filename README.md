@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá 👋
 
+- 🌱 Atualmente eu estou aprendendo Node.js
+
+## [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otaviogonzaga/)
 <!--
 **OtavioGonzaga/OtavioGonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
