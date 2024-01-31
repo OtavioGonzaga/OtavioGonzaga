@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🔭 HTML, CSS, JavaScript, React e Node.js
-- 🌱 Atualmente eu estou aprendendo React.js
+- 🌱 Atualmente eu estou aprendendo Java
 
 ## [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otaviogonzaga/)
 <!--
