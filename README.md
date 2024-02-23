@@ -13,7 +13,7 @@
 <br />
 <br />
 
-ㅤㅤㅤㅤㅤ<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioGonzaga&layout=donut-vertical" alt="Top Langs" >ㅤㅤㅤㅤㅤ<img src="https://github-readme-stats.vercel.app/api?username=OtavioGonzaga&show_icons=true&theme=synthwave" alt="Estatísticas do GitHub">
+ㅤ<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioGonzaga&layout=donut-vertical" alt="Top Langs" >ㅤㅤㅤ<img src="https://github-readme-stats.vercel.app/api?username=OtavioGonzaga&show_icons=true&theme=synthwave" alt="Estatísticas do GitHub">
 
 <br />
 
