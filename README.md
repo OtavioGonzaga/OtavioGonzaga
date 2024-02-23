@@ -4,6 +4,8 @@
 
 - 🌱 Atualmente eu estou aprendendo Java
 - 📖 Cursando Engenharia de Software (UTFPR)
+- 🦁 Nest JS
+- ❎ Express.js
 - ⚛️ React JS
 - ⚙️ Node.js
 - 📄 HTML, CSS, JavaScript
@@ -11,12 +13,7 @@
 <br />
 <br />
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OtavioGonzaga&show_icons=true&theme=synthwave)
-<br />
-<br />
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioGonzaga&layout=donut-vertical)](https://github.com/OtavioGonzaga/github-readme-stats)
+ㅤㅤㅤㅤㅤ<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioGonzaga&layout=donut-vertical" alt="Top Langs" >ㅤㅤㅤㅤㅤ<img src="https://github-readme-stats.vercel.app/api?username=OtavioGonzaga&show_icons=true&theme=synthwave" alt="Estatísticas do GitHub">
 
 <br />
 
