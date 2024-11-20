@@ -2,13 +2,12 @@
 ### Hello world 👋
 <br />
 
-- 🌱 Atualmente eu estou aprendendo Java
+- 🌱 Atualmente eu estou aprendendo .NET e Rust
 - 📖 Cursando Engenharia de Software (UTFPR)
 - 🦁 Nest JS
 - ❎ Express.js
 - ⚛️ React JS
 - ⚙️ Node.js
-- 📄 HTML, CSS, JavaScript
   
 <br />
 <br />
