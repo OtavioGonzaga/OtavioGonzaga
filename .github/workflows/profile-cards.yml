@@ -1,0 +1,36 @@
+name: Update GitHub profile cards
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/workflows/profile-cards.yml
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards-${{ github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Generate and commit SVG cards
+        uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: OtavioGonzaga
+          BRANCH_NAME: ${{ github.ref_name }}
+          THEME: nord_dark
+          AUTO_PUSH: true
