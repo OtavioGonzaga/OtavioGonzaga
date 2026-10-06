@@ -10,19 +10,20 @@ I build APIs, developer tools, and infrastructure with a focus on maintainabilit
   <a href="https://crates.io/crates/ssh-kmux"><img alt="Crates.io" src="https://img.shields.io/badge/crates.io-3D7EA6?style=flat-square&logo=rust&logoColor=white"></a>
 </p>
 
-## Technologies
+## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,rust,postgres,sqlite,prisma,docker,githubactions,linux,nginx,react&perline=6&theme=dark" alt="TypeScript, Node.js, NestJS, Rust, PostgreSQL, SQLite, Prisma, Docker, GitHub Actions, Linux, Nginx, React" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,nestjs,rust,postgres,mysql,sqlite,prisma,redis,react,vite,docker,githubactions,linux,nginx,aws,git&perline=9&theme=dark" alt="TypeScript, Node.js, Bun, NestJS, Rust, PostgreSQL, MySQL, SQLite, Prisma, Redis, React, Vite, Docker, GitHub Actions, Linux, Nginx, AWS, Git" />
 </p>
 
 | Area | Tools & practices |
 | --- | --- |
 | **Backend** | TypeScript, Node.js, NestJS, Rust, REST APIs |
 | **Architecture** | Domain-Driven Design, Ports & Adapters, event-driven systems |
-| **Data** | PostgreSQL, SQLite, Prisma, SeaORM |
-| **Infrastructure** | Linux, Docker, Podman, GitHub Actions, Nginx, Traefik, OpenTelemetry |
-| **Frontend** | React, React Native |
+| **Data** | PostgreSQL, MySQL, SQLite, Prisma, SeaORM, Redis |
+| **Infrastructure** | Linux, Docker, Podman, GitHub Actions, Nginx, Traefik, AWS, OpenTelemetry |
+| **Web** | React, React Native, Vite, Bun |
+| **Testing** | Vitest, Playwright |
 
 ## Selected projects
 
@@ -31,6 +32,12 @@ I build APIs, developer tools, and infrastructure with a focus on maintainabilit
 A Linux CLI that gives a command a filtered view of an existing SSH agent. Only selected keys are available to the child process; private keys stay in the upstream agent.
 
 **Rust · Linux · OpenSSH · Unix sockets · Security**
+
+### [Zion](https://github.com/OtavioGonzaga/zion)
+
+A local-first PWA for creating and following Bible reading plans. It works without accounts or a backend, keeps progress on-device, supports offline use, and adapts future readings through deterministic scheduling.
+
+**React · TypeScript · Vite · Bun · PWA · Vitest · Playwright**
 
 ### [Windwatcher](https://github.com/OtavioGonzaga/windwatcher)
 
